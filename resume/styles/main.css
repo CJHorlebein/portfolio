@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: black;
+}
+body {
+    background-color: #EEEEEE;
+    font-family: arial, sans-serif;
+}
+.description{
+    margin-bottom: 10px;
+}
+div .dates{
+    text-align: right;
+}
+.section {
+    color: rgb(91, 155, 213);
+    margin-bottom: 10px;
+}
+
+article, header{
+    margin: 10px;
+}
+
+.profile-links {
+    text-decoration: none;
+    color: black;
+}
