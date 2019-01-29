@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #FBFAF6;
+}
+
+
+#main-raven {
+    position: fixed;
+    top: 10vw;
+    right: 10vw;
+    height: 80vh;
+}
+
+#nav-bar {
+    background-color: #665D4DAA;
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 2vh 20vw;
+}
+
+#main-name {
+    font-size: 3rem;
+}
+
+#job-title {
+    font-size: 2rem;
+}
+.nav-item {
+    color: #FBFAF6;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-right: 2rem;
+}
+
+.w-50 {
+    width: 50vw;
+}
